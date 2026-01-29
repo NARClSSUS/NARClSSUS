@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://youtu.be/nN21zr4DJeA?si=Wa6Nu1R6GT5zCBfo">
     <img 
-      src="https://i.pinimg.com/1200x/6d/03/20/6d03206ac9b3bdab5c982071c293ed60.jpg"
+      src="https://i.pinimg.com/736x/25/83/ec/2583ecac2521e0cd081a52bd498d117c.jpg"
       width="600"
     >
   </a>
